@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light theme window background -->
+    <color name="app_window_background">#FFFFFFFF</color>
+    <color name="splash_amoled_background">#FF000000</color>
+    <color name="branding_icon_background">#FF6650a4</color>
+</resources>
+
